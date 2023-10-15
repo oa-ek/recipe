@@ -1,4 +1,4 @@
-﻿namespace ClassLibrary1
+﻿namespace Recipe.Servises
 {
     public class Class1
     {
